@@ -4,6 +4,7 @@ def poorly_formatted(x, y):
     else:
         return y
 
+
 def another_function(a, b):
     result = a + b
     return result
